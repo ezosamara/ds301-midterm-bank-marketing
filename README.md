@@ -2,7 +2,7 @@
 
 ## Team
 - Moataz Samara  
-- Samantha Acosta Valdez  
+
 
 ## Research Paper
 
